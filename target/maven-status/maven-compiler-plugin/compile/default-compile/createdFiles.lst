@@ -1,0 +1,14 @@
+com\donation\donation_platform\entity\User.class
+com\donation\donation_platform\repository\CampaignRepository.class
+com\donation\donation_platform\service\DonationService.class
+com\donation\donation_platform\service\CampaignService.class
+com\donation\donation_platform\controller\HomeController.class
+com\donation\donation_platform\repository\DonationRepository.class
+com\donation\donation_platform\entity\Campaign.class
+com\donation\donation_platform\repository\UserRepository.class
+com\donation\donation_platform\DonationPlatformApplication.class
+com\donation\donation_platform\entity\Donation.class
+com\donation\donation_platform\service\UserService.class
+com\donation\donation_platform\controller\CampaignController.class
+com\donation\donation_platform\controller\DonationController.class
+com\donation\donation_platform\controller\UserController.class
